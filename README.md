@@ -1,2 +1,2 @@
 # UVa_Online_Judge
-Estos son algunos problemas de la plataforma UVa Online Judge que he resuelto
+These are some problems of the UVa Online Judge platform that I have solved
